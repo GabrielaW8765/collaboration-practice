@@ -6,7 +6,7 @@
 #### 6
 #### 7 Another comment but on line 7 :D
 #### 8
-#### 9 GitHub is really good.
+#### 9 Github is really awesome.
 #### 10
 #### 11
 #### 12
